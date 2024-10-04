@@ -1,0 +1,169 @@
+/* Your styles here */
+body {
+  width: 100vw;
+  height: 100vh;
+  box-sizing: border-box;
+  margin: 0rem;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 400;
+}
+h1,
+button,
+h2 {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+header,
+main,
+footer {
+  width: 100vw;
+}
+.epic {
+  padding-top: 30px;
+  padding-left: 20px;
+}
+.div {
+  background-color: black;
+  width: auto;
+  height: 150px;
+  margin-bottom: 0rem;
+}
+
+.logo {
+  background-image: url(/Esercizio/images/banner.jpg);
+  width: 100%;
+  height: 50vh;
+  background-size: cover;
+  background-position: center;
+}
+h1 {
+  text-align: center;
+  margin-top: 0;
+  font-size: 40px;
+  color: #23a1c2;
+  padding-top: 15rem;
+  font-weight: bold;
+}
+main > div > div > h1 + p {
+  text-align: center;
+  font-size: 25px;
+}
+button {
+  background-color: #f14c2f;
+  font-size: 20px;
+  color: aliceblue;
+  border-radius: 5px;
+  border: 0px;
+  padding: 10px 25px;
+  text-transform: uppercase;
+  display: block;
+  margin: auto;
+  cursor: pointer;
+}
+
+.PC {
+  margin-top: 10rem;
+  display: inline-block;
+  text-align: center;
+}
+.title {
+  margin-left: 30rem;
+  display: inline-block;
+  text-align: left;
+  margin-left: 70px;
+}
+main > div + div {
+  text-align: center;
+}
+
+.note {
+  border-radius: 500px;
+}
+
+.Color {
+  color: #23a1c2;
+  font-size: 25px;
+  font-weight: bold;
+}
+p {
+  font-size: 25px;
+}
+
+.div-o {
+  background-color: #e22d0e;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  color: aliceblue;
+}
+.titl-epic {
+  font-size: 35px;
+  font-weight: bold;
+}
+.p-epic {
+  font-style: oblique;
+  font-size: 25px;
+}
+.mario {
+  margin-bottom: 0;
+}
+.ceo {
+  font-size: 20px;
+  margin-top: 1px;
+}
+.div-H {
+  text-align: center;
+}
+.all {
+  text-align: center;
+  display: inline-block;
+  margin-top: 7rem;
+  margin-left: 3rem;
+  border-style: solid;
+  border-color: #d0d1d1;
+  height: auto;
+  vertical-align: top;
+  width: 27%;
+}
+.all > img {
+  width: 100%;
+  height: 30vh;
+}
+
+footer {
+  background-color: #23a1c2;
+  width: 100%;
+  height: 30vh;
+  color: #d0d1d1;
+  min-height: 35vh;
+}
+footer > div {
+  width: 313px;
+  margin-inline: auto;
+  border-bottom: 1px solid whitesmoke;
+}
+footer > h3 {
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 900;
+  padding-top: 4rem;
+  margin-left: 2rem;
+}
+.last-p {
+  color: aliceblue;
+  font-size: 1rem;
+  text-align: center;
+}
+a {
+  color: antiquewhite;
+}
+i {
+  padding-right: 1rem;
+}
+span {
+  padding-left: 1rem;
+}

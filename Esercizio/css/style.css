@@ -1,0 +1,148 @@
+* {
+  box-sizing: border-box;
+  text-align: center;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 400;
+
+  padding-left: 2p;
+  font-size: 1.2rem;
+  color: #393d41;
+  max-width: 400px;
+  margin-inline: auto;
+}
+h2 {
+  margin-top: 3rem;
+  margin-bottom: 2rem;
+  color: #25a2c3;
+  font-weight: 900;
+}
+
+p {
+  line-height: 2rem;
+}
+
+.image-container {
+  background-color: black;
+  width: 100%;
+  height: 90px;
+}
+.image-container > img {
+  width: 130px;
+  margin-top: 1.5em;
+}
+.NAV-IMG {
+  background-image: url(../images/banner.jpg);
+  background-size: cover;
+  padding: 20px;
+  height: 350px;
+}
+
+div > nav > h1 {
+  font-size: 45px;
+  color: #25a2c3;
+  margin-block: 1rem;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+}
+
+.custom-button {
+  background-color: #f04c2f;
+  color: white;
+  border-color: #f04c2f;
+  padding: 10px 20px;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+  border-radius: 5px;
+  margin-top: 1rem;
+}
+
+.cp-class {
+  border-radius: 50%;
+  width: 300px;
+  height: 300px;
+  margin-top: 1rem;
+}
+
+.container-red {
+  height: 350px;
+  width: 400px;
+  background-color: #e62618;
+  margin-block: 3rem;
+  padding-top: 1.5rem;
+}
+
+.text-w {
+  padding-top: 2rem;
+  color: rgb(206, 206, 196);
+  font-size: 2rem;
+  font-weight: bold;
+}
+.text-wp {
+  font-style: oblique;
+  margin-top: 4rem;
+  color: rgb(206, 206, 196);
+}
+
+article > h1 {
+  padding-top: 60px;
+  font-size: 30px;
+}
+
+.borders-class {
+  border: 1px solid rgb(223, 216, 216);
+  border: 80%;
+  margin-bottom: 2rem;
+  width: 370px;
+  margin-inline: auto;
+}
+.General {
+  width: 100%;
+  margin-inline: auto;
+}
+.class-pt {
+  margin-top: 1rem;
+  color: #25a2c3;
+  font-weight: 900;
+}
+.class-p {
+  margin-top: 1rem;
+  margin-bottom: 3rem;
+}
+
+.container-blue {
+  height: 350px;
+  width: 400px;
+  background-color: #25a2c3;
+}
+footer > div > h1 {
+  font-size: 35px;
+  padding-bottom: 20px;
+}
+.contac {
+  color: #c8e7f0;
+  padding-top: 3rem;
+}
+i {
+  margin-right: 5px;
+}
+
+.f-class {
+  color: #c8e7f0;
+  padding: 5px 1px 10px;
+}
+hr {
+  width: 180px;
+  margin-top: 1rem;
+}
+.last-p {
+  color: #c8e7f0;
+  font-size: 15px;
+  margin-top: 1rem;
+}
+a {
+  color: #c8e7f0;
+}
